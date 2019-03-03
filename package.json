@@ -1,0 +1,24 @@
+{
+    "name": "react-parcel-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.tsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "typescript": "^3.3.3333"
+    },
+    "dependencies": {
+        "@types/react": "^16.8.6",
+        "@types/react-dom": "^16.8.2",
+        "react": "^16.8.3",
+        "react-dom": "^16.8.3"
+    }
+}
